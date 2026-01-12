@@ -1,2 +1,2 @@
 # startup
-Athor- SujithaGanji
+Author- SujithaGanji
